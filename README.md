@@ -23,29 +23,33 @@ Welcome to my website! This website showcases various sections including our cli
 ## Screenshots
 
 ### Landing Section
+
 <img width="960" alt="web" src="https://github.com/user-attachments/assets/4260c819-facb-4cf5-aed4-143ff662c365" />
+
 ### Our Clients
 <img width="960" alt="web2" src="https://github.com/user-attachments/assets/0e178a80-a03f-4dd7-b25c-3982a3d14d41" />
 
 ### Features
 
-![Features](./images/features.png)
+<img width="960" alt="web2" src="https://github.com/user-attachments/assets/77a40995-a7ba-42fb-9879-907fa85d5151" />
 
 ### Statistics
 
-![Statistics](./images/statistics.png)
+<img width="960" alt="web3" src="https://github.com/user-attachments/assets/342911af-1a24-4afa-998d-4d420c6b3a1a" />
 
 ### Services
 
+<img width="960" alt="Services" src="https://github.com/user-attachments/assets/fa604b17-a440-4f31-a169-8f6e1d1a5812" />
 
 ### Portfolio
 
+<img width="960" alt="web4" src="https://github.com/user-attachments/assets/c05f0606-db94-4253-8800-fbc472bd937b" />
 
 ### About
-
-![About](./images/about.png)
+<img width="960" alt="About Us" src="https://github.com/user-attachments/assets/11eaf19f-5598-4464-b901-e4414b8d1e6c" />
 
 ### Contact
+<img width="960" alt="Contact" src="https://github.com/user-attachments/assets/b0c59b3a-f7fa-4409-b2f9-80abe8e8ee57" />
 
 
 ## Technologies Used
