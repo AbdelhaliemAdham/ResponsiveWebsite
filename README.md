@@ -23,12 +23,9 @@ Welcome to my website! This website showcases various sections including our cli
 ## Screenshots
 
 ### Landing Section
-
-![Landing Section](./images/landing.png)
-
+<img width="960" alt="web" src="https://github.com/user-attachments/assets/4260c819-facb-4cf5-aed4-143ff662c365" />
 ### Our Clients
-
-![Our Clients](./images/clients.png)
+<img width="960" alt="web2" src="https://github.com/user-attachments/assets/0e178a80-a03f-4dd7-b25c-3982a3d14d41" />
 
 ### Features
 
@@ -40,11 +37,9 @@ Welcome to my website! This website showcases various sections including our cli
 
 ### Services
 
-![Services](./images/services.png)
 
 ### Portfolio
 
-![Portfolio](./images/portfolio.png)
 
 ### About
 
@@ -52,7 +47,6 @@ Welcome to my website! This website showcases various sections including our cli
 
 ### Contact
 
-![Contact](./images/contact.png)
 
 ## Technologies Used
 
